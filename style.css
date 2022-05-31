@@ -1,0 +1,294 @@
+.start {
+font-weight: bolder;
+color: darkgreen;
+}
+.izgoy {
+font-weight: bolder;
+color: greenyellow;
+}
+body {
+font-weight: bolder;
+/*  background-image: url(https://www.teahub.io/photos/full/95-958670_simple-background-4k.png); */
+/* background-image: url(https://kartinkin.net/uploads/posts/2022-01/1643347046_69-kartinkin-net-p-pattern-polosi-krasivie-74.jpg); */
+background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614385534_20-p-fon-dlya-fotoshopa-svetlii-muzhskoi-22.jpg)
+}
+.visota {
+color: forestgreen;
+}
+.toper {
+color: crimson;
+}
+.marderstart {
+color: rgb(13, 50, 13);
+}
+.armory {
+color: dodgerblue;
+}
+.armored {
+color: lawngreen;
+}
+.engine {
+color: darkred;
+}
+.history {
+color: darkblue;
+}
+.history {
+color: cornflowerblue;
+}
+.main1 {
+color: brown;
+}
+.overline {
+text-decoration: overline;
+}
+.walking {
+color: blue;
+}
+.ArmoredFr {
+color: chartreuse;
+}
+.sizeFr {
+color: firebrick;
+}
+.historyFr {
+color: darkgreen;
+}
+.overline {
+color: darkred;
+}
+.armoryFr {
+color: darkorange;
+}
+.modificationsFr {
+color: forestgreen;
+}
+.form {
+border: 200px;
+}
+.sizeBrit {
+    color: darkblue;
+    }
+    .engineBrit {
+    color: darkgreen;
+    }
+    .BritHistory {
+    color: darkred;
+    }
+    .overline {
+    text-decoration: overline;
+    }
+    .speed {
+     color: green;
+        }
+        .mowagsize {
+      color: firebrick;
+            }
+            .classifik {
+                color: rgb(49, 29, 84);
+                      }
+                      .Bernarmory {
+                      color: darkred;
+                      }
+                      .Bernarmored {
+                          color: darkgreen;
+                      }
+                      .sovietarmory {
+                      color: firebrick;
+                      }
+                      .sovietsize {
+                   color: teal;
+                      }
+                      .sovietarmored {
+                    color: darkgreen;
+                      }
+                      .soviethistory {
+           color: indigo;
+                      }
+                      .engineSoviet {
+                  color: blue;
+                      }
+                      .sizeChina {
+                      color: darkgreen;
+                      }
+                      .armoredChina {
+                      color: crimson;
+                      }
+                     .armoryChina {
+                      color: navy;
+                     }
+                     .modificationsChina {
+                      color: green;
+                     }
+                     .engineChina {
+                      color: mediumblue;
+                     }
+                     .baseChina {
+                      color: midnightblue;
+                     }
+                     .mainrussia {
+                      color: green;
+                     }
+                     .sizeRussia {
+                      color: navy;
+                     }
+                     .armoredRussia {
+                     color: darkred;
+                     }
+                     .historyRussia {
+                      color: crimson;
+                     }
+                     .armoryRussia {
+                      color: forestgreen;
+                     }
+                     .toperEngine {
+                      color: indigo;
+                     }
+                     .rusOverline {
+                      border: 500px;
+                      text-decoration: overline;
+                     }
+                     .ChinaOverline {
+                      text-decoration: overline;
+                     }
+                     .overlineBrit {
+                      text-decoration: overline;
+                     }
+                     .USAhistory{
+                      color: darkblue;
+                     }
+                     .sizeUSA {
+                      color: darkred;
+                     }
+                    .armoredUSA {
+                    color: green;
+                    }
+                    .armoryUSA {
+                    color: darkgreen;
+                    }
+                    .basedUsa{
+                    color: coral;
+                    }
+                    .engineUSA {
+                    color: crimson;
+                    }
+                    .burgeroverline {
+                    text-decoration: overline;
+                    }
+                    .body {
+                    text-align: center;
+                    }
+                    .SwedOverline {
+                   text-decoration: overline;
+                   color: cyan;
+                    }
+                    .SwedHistory {
+                    color: darkgreen;
+                    }
+                    .SwedBase {
+                   color: indianred;
+                    }
+                    .sizeSwed {
+                    color: indigo;
+                    }
+                    .armorySwed {
+                    color: darkred;
+                    }
+                    .armoredSwed {
+                    color: forestgreen;
+                    }
+                    .engineSwed {
+                    color: gray;
+                    }
+                    .KoreanEngine {
+                    color: blue;
+                    }
+                    .KoreanHistory {
+                    color: indigo;
+                    }
+                    .KoreanSize {
+                    color: crimson;
+                    }
+                    .KoreanArmory {
+                  color: darkgreen;
+                    }
+                    .KoreanArmored {
+                    color: darkred;
+                    }
+                    .KoreanBase {
+                    color: darkblue;
+                    }
+                    .KoreanTop {
+                    text-decoration: overline;
+                    }
+                    .SizeGermany {
+                    color: brown;
+                    }
+                    .ArmoredGermany {
+                    color: crimson;
+                    }
+                    .ArmoryGermany {
+                    color: blue;
+                    }
+                    .EngineGermany {
+                    color: indigo;
+                    }
+                    .GermanyBase {
+                    color: red;
+                    }
+                    .GermanyHistory {
+                color: green;
+                    }
+                    .GermanyOverline {
+                    text-decoration: overline;
+                    }
+                    .ded {
+                    text-decoration: overline;
+                    }
+                    .form {
+                      background-color: forestgreen;
+                   width: 200px;
+                   height: 300px;
+                   padding: 10px;
+                   border: 2px solid
+                    }
+                    .formSs {
+                      display: flex;
+                    justify-content: space-between;
+                    }
+                    .fuh {
+                    text-decoration: overline;
+                    }
+                    .form1 {
+                      background-image: url(images1/mb.png);
+                      width: 600px;
+                      height: 300px;
+                      padding: 10px;
+                      border: 2px solid
+                    }
+                    .form2 {
+                      background-image: url(images1/ideal.png);
+                      width: 525px;
+                      height: 300px;
+                      padding: 10px;
+                      border: 2px solid
+                    }
+                    .formSS {
+                    display: flex;
+                    justify-content: space-between;
+                    }
+                    .form3 {
+                    background-image: url(images1/sweden.png);
+                    width: 600px;
+                      height: 560px;
+                      padding: 10px;
+                      border: 2px solid
+                    }
+                    .form4 {
+                    background-image: url(images1/700-nw.png);
+                    width: 700px;
+                    height: 700px;
+                    padding: 10px;
+                    border: 2px solid
+                    }
+                    
