@@ -245,50 +245,32 @@ border: 200px;
                     .ded {
                     text-decoration: overline;
                     }
-                    .form {
-                      background-color: forestgreen;
-                   width: 200px;
-                   height: 300px;
-                   padding: 10px;
-                   border: 2px solid
-                    }
-                    .formSs {
-                      display: flex;
-                    justify-content: space-between;
-                    }
-                    .fuh {
-                    text-decoration: overline;
-                    }
-                    .form1 {
-                      background-image: url(images1/mb.png);
-                      width: 600px;
-                      height: 300px;
-                      padding: 10px;
-                      border: 2px solid
-                    }
-                    .form2 {
-                      background-image: url(images1/ideal.png);
-                      width: 525px;
-                      height: 300px;
-                      padding: 10px;
-                      border: 2px solid
-                    }
-                    .formSS {
-                    display: flex;
-                    justify-content: space-between;
-                    }
-                    .form3 {
-                    background-image: url(images1/sweden.png);
-                    width: 600px;
-                      height: 560px;
-                      padding: 10px;
-                      border: 2px solid
-                    }
-                    .form4 {
-                    background-image: url(images1/700-nw.png);
-                    width: 700px;
-                    height: 700px;
-                    padding: 10px;
-                    border: 2px solid
-                    }
+                  .fuh {
+                  text-decoration: underline
+                  }
+                  .liner {
+                  text-decoration: underline;
+                  }
+                  .form1 {
+                  border: 2px solid;
+                width: 250px;;
+                height: 300px;
+                  }
+                  .form2 {
+                  color: blue;
+                  }
+                  .form3 {
+                  color: blueviolet;
+                  }
+                  .form4 {
+                  color: crimson;
+                  }
+                  .form5 {
+                  color: red;
+                  }
+                  body {
+                  text-align: centers;
+              margin-left: 200px;
+                  }
+                    
                     
